@@ -1,1 +1,3 @@
 # Work in Progress...
+
+## An implementation of a fictional programming language interpreter, written in GO, following the book: write an Interpreter in GO, by Thorsten Ball
